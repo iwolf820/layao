@@ -16,7 +16,6 @@ import {
 import {
 	BannerViewDataSource,
 } from '../../datas/case.view.data.source'
-
 import "antd/dist/antd.css";
 import '../../less/styles.less'
 
